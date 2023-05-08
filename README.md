@@ -4,13 +4,13 @@ Bu proje, 1000x1000 boyutunda bir alan üzerinde iki adet sensör ve bir adet he
 
 Uygulama, Java programlama dili kullanılarak geliştirilmiştir. Veri akışını sağlamak için Apache Kafka mesajlaşma sistemi kullanılmıştır. Veritabanı olarak ise herhangi bir veritabanı kullanılmamıştır.
 
-Kullanılan Teknolojiler
-Java: Uygulama, Java programlama dili kullanılarak geliştirilmiştir. Java sürümü olarak Java Development Kit (JDK) 17 kullanılmıştır.
-Apache Kafka: Veri akışını sağlamak için Apache Kafka mesajlaşma sistemi kullanılmıştır. Kafka, ana hatlarıyla olay akışı işleme (event streaming) sağlayan açık kaynaklı bir veri işleme platformudur. Kafka sürümü olarak 3.4.0 kullanılmıştır.
-Spring: Uygulamanın derlenmesi ve bağımlılıklarının yönetimi için Java'nın Spring framework'ü kullanılmıştır.Spring, Java ve .NET için geliştirilmiş açık kaynak kodlu bir framework’tür. Spring versiyonu 3.0.6 kullanılmıştır.
-IntelliJ IDEA: Uygulama geliştirme için IntelliJ IDEA kullanılmıştır. IntelliJ IDEA, açık kaynaklı bir Java entegre geliştirme ortamıdır.
+# Kullanılan Teknolojiler
+- Java: Uygulama, Java programlama dili kullanılarak geliştirilmiştir. Java sürümü olarak Java Development Kit (JDK) 17 kullanılmıştır.
+- Apache Kafka: Veri akışını sağlamak için Apache Kafka mesajlaşma sistemi kullanılmıştır. Kafka, ana hatlarıyla olay akışı işleme (event streaming) sağlayan açık kaynaklı bir veri işleme platformudur. Kafka sürümü olarak 3.4.0 kullanılmıştır.
+- Spring: Uygulamanın derlenmesi ve bağımlılıklarının yönetimi için Java'nın Spring framework'ü kullanılmıştır.Spring, Java ve .NET için geliştirilmiş açık kaynak kodlu bir framework’tür. Spring versiyonu 3.0.6 kullanılmıştır.
+- IntelliJ IDEA: Uygulama geliştirme için IntelliJ IDEA kullanılmıştır. IntelliJ IDEA, açık kaynaklı bir Java entegre geliştirme ortamıdır.
 # Uygulamanın Derlenmesi ve Çalıştırılması
-Uygulamanın derlenmesi ve çalıştırılması için aşağıdaki adımlar izlenmelidir:
+- Uygulamanın derlenmesi ve çalıştırılması için aşağıdaki adımlar izlenmelidir:
 
 1- Öncelikle, sisteminizde JDK 17 yüklü olmalıdır. Ayrıca, Apache Kafka 3.4.0 sürümü indirilmelidir.
 
